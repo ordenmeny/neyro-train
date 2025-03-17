@@ -1,0 +1,7 @@
+path: F:/projectNeyro/all_dataset  # Полный путь к папке с датасетом
+train: train/images  # Путь к изображениям train
+val: val/images  # Путь к изображениям val
+test: test/images  # Путь к изображениям test
+
+nc: 6  # Количество классов (6 цветов кубиков)
+names: ["yellow", "green", "blue", "red", "pink", "purple"]  # Названия классов
